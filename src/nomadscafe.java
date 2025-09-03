@@ -1044,7 +1044,6 @@ class Cafe2 {
                 scanner.nextLine(); // clear invalid input
             }
         }
-
         String checkOrdersSql = "SELECT COUNT(*) FROM orders WHERE ItemID = ?";
         try (PreparedStatement ps = con.prepareStatement(checkOrdersSql)) {
             ps.setInt(1, itemId);
@@ -1223,6 +1222,7 @@ class Cafe2 {
             }
         }
     }
+    //bulk update
     static void bulkUpdateAvailability() throws SQLException {
         System.out.print("Enter category to update (or 'all' for all items): ");
         String category = scanner.nextLine().trim();
