@@ -1,0 +1,38 @@
+[2025-07-24T23:14:16.4821838] User: vivek, ItemID: 903, Quantity: 2
+[2025-07-24T23:30:29.7059393] User: vivek, ItemID: 905, Quantity: 5
+[2025-07-24T23:38:22.0857896] User: vivek, ItemID: 601, Quantity: 5
+[2025-07-26T11:22:11.151173] User: pal, ItemID: 302, Quantity: 5
+[2025-07-27T15:54:34.7498961] User: rushi, ItemID: 901, Quantity: 10
+[2025-08-06T22:08:11.1095463] User: vipul, ItemID: 104, Quantity: 2
+[2025-08-06T22:39:35.4982505] User: vipul, ItemID: 905, Quantity: 5
+[2025-08-15T12:32:48.0173293] User: sumit, ItemID: 25, Quantity: 5
+[2025-08-15T15:12:38.3235676] User: vivek, ItemID: 19, Quantity: 5
+[2025-08-15T15:41:03.4471592] User: vivek, ItemID: 84, Quantity: 3, Free Items: Free Coffee
+[2025-08-15T15:54:55.5886979] User: vivek, ItemID: 81, Quantity: 4, Free Items: Free Coffee
+[2025-08-15T22:30:30.5096229] User: parth, ItemID: 81, Quantity: 2
+[2025-08-16T11:58:41.7281429] User: sumit, ItemID: 7, Quantity: 10
+[2025-08-16T12:00:19.2893748] User: vivek, ItemID: 3, Quantity: 5
+[2025-08-17T13:56:34.1201054] User: vivek, ItemID: 90, Quantity: 1
+[2025-08-17T15:10:04.7367952] User: vivek, ItemID: 3, Quantity: 3, Free Items: Free Coffee
+[2025-08-18T17:54:35.9761847] User: femdi, ItemID: 60, Quantity: 2
+[2025-08-18T19:54:16.8465407] User: yagnik, ItemID: 4, Quantity: 3
+[2025-08-18T21:33:46.0255179] User: vivek, ItemID: 86, Quantity: 2
+[2025-08-19T14:22:30.5962858] User: shiravirat05@gmail.com, ItemID: 3, Quantity: 3
+[2025-08-19T14:24:26.0617938] User: vivek, ItemID: 82, Quantity: 3
+[2025-08-19T14:54:04.5692864] User: mansi, ItemID: 69, Quantity: 2
+[2025-08-20T13:05:40.5906576] User: vivek, ItemID: 133, Quantity: 2
+[2025-08-20T13:11:36.8667797] User: femina, ItemID: 92, Quantity: 1
+[2025-08-20T13:28:52.0602685] User: vivek, ItemID: 100, Quantity: 1
+[2025-08-20T13:55:47.786797] User: 2, ItemID: 90, Quantity: 1
+[2025-08-20T13:56:51.2212792] User: vivek, ItemID: 39, Quantity: 1
+[2025-08-20T14:01:05.6714475] User: vivek, ItemID: 103, Quantity: 1, Free Items: Free Coffee
+[2025-08-20T15:39:21.4849383] User: vivek, ItemID: 4, Quantity: 2
+[2025-08-20T22:10:39.4788521] User: vivek, ItemID: 105, Quantity: 1
+[2025-08-21T09:49:11.9828973] User: vivek, ItemID: 140, Quantity: 2
+[2025-08-21T10:57:07.4760394] User: j, ItemID: 89, Quantity: 3
+[2025-08-22T13:59:30.9255436] User: vivek, ItemID: 42, Quantity: 1
+[2025-08-22T14:01:47.2165453] User: vivek, ItemID: 144, Quantity: 1
+[2025-08-22T14:05:20.4850214] User: sumit, ItemID: 41, Quantity: 1, Free Items: Free Coffee
+[2025-08-23T11:34:49.6786003] User: tarun, ItemID: 58, Quantity: 2
+[2025-08-23T12:48:32.6050436] User: sumit, ItemID: 102, Quantity: 1
+[2025-08-23T12:53:06.1837107] User: sumit, ItemID: 151, Quantity: 1

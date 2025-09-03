@@ -1,0 +1,5 @@
+SALES REPORT (2025-07-01 to 2025-07-01)
+Item                 Category        Quantity   Total Sales
+-----------------------------------------
+Total Days: 1
+GRAND TOTAL: 0.00

@@ -1,0 +1,7 @@
+SALES REPORT (2025-07-01 to 2025-07-21)
+Item                 Category        Quantity   Total Sales
+Assam Black Tea      Tea & Infusions 5          425.00   
+Affogato             Hot Coffee      2          320.00   
+-----------------------------------------
+Total Days: 21
+GRAND TOTAL: 745.00
